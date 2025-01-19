@@ -41,12 +41,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -58,12 +56,27 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+These are the topics that were covered in the course!
+1. Editing, Running, and Testing Lisp Programs
+2. Lisp Programming
+3. Tuples (Structures) and Arrays
+4. Array Sorting and Lists
+5. Stacks (Queues)
+6. Key-Value Hash Maps and Recursion
+7. Hash-Tables
+8. Trees and Creating your Lisp Dialect - uLisp (MicroLisp)
+9. Graps and Spanning Trees
+
 
 ### Built With
 
 [![Lisp][Lisp]][Lisp-url]
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
