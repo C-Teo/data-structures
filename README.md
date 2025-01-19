@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-These are the topics that were covered in the course! My favourite part was Lab 8 where we built our own version of Lisp titlted "uLisp" in less than 83 lines! Now of course, it's missing a lot of the functionality of MicroLisp 😅.
+These are the topics that were covered in the course! My favourite part was Lab 8 where we built our own version of Lisp titlted "uLisp" in less than 84 lines! Now of course, it's missing a lot of the functionality of MicroLisp 😅.
 1. Editing, Running, and Testing Lisp Programs
 2. Lisp Programming
 3. Tuples (Structures) and Arrays
